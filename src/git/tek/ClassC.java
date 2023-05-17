@@ -1,4 +1,4 @@
-package git_java;
+package git.tek;
 
 public class ClassC {
 
